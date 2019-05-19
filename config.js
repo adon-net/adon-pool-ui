@@ -1,4 +1,4 @@
-var api = "http://pool.adon.network/api";
+var api = "https://pool.adon.network/api";
 
 var email = "pool-support@adon.network";
 var telegram = "https://t.me/adon_coin";
